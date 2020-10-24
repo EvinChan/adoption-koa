@@ -68,10 +68,6 @@ HTTP请求框架：Axios 0.19.0
 
 ![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/17.png)
 
-![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/18.png)
-
 ![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/19.png)
-
-![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/20.png)
 
 ![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/21.png)
