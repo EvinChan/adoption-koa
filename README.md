@@ -60,19 +60,11 @@ HTTP请求框架：Axios 0.19.0
 
 ![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/10.png)
 
-![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/11.png)
-
-![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/12.png)
-
 ![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/13.png)
 
 系统管理员模块
 
 ![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/14.png)
-
-![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/15.png)
-
-![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/16.png)
 
 ![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/17.png)
 
