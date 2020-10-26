@@ -38,7 +38,7 @@ HTTP请求框架：Axios 0.19.0
 
 前台门户模块
 
-![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/1.png)
+![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/0.png)
 
 ![](https://czz-education.oss-cn-shenzhen.aliyuncs.com/hyq/2.png)
 
